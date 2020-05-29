@@ -1,4 +1,7 @@
 # node-express-mongodb-ejs
-a simple project
+git完成后
 
+安装依赖
 npm install
+
+启动项目
